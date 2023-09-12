@@ -1,0 +1,10 @@
+E:\SEM8\PROJECT\CODES\PROJECT\Project\Project\bin\Debug\Project.exe.config
+E:\SEM8\PROJECT\CODES\PROJECT\Project\Project\bin\Debug\Project.exe
+E:\SEM8\PROJECT\CODES\PROJECT\Project\Project\bin\Debug\Project.pdb
+E:\SEM8\PROJECT\CODES\PROJECT\Project\Project\obj\Debug\Project.csprojAssemblyReference.cache
+E:\SEM8\PROJECT\CODES\PROJECT\Project\Project\obj\Debug\Project.Form1.resources
+E:\SEM8\PROJECT\CODES\PROJECT\Project\Project\obj\Debug\Project.Properties.Resources.resources
+E:\SEM8\PROJECT\CODES\PROJECT\Project\Project\obj\Debug\Project.csproj.GenerateResource.cache
+E:\SEM8\PROJECT\CODES\PROJECT\Project\Project\obj\Debug\Project.csproj.CoreCompileInputs.cache
+E:\SEM8\PROJECT\CODES\PROJECT\Project\Project\obj\Debug\Project.exe
+E:\SEM8\PROJECT\CODES\PROJECT\Project\Project\obj\Debug\Project.pdb
